@@ -1,2 +1,2 @@
-# Algorithms-By-Me
-algrithms created by me
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
